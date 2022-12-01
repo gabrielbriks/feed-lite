@@ -1,4 +1,4 @@
 # FeedLite
 
-## Aplicação construída com base no projeto desenvolvido durante as aulas de Fundamentos do React no Ignite
+## Aplicação construída com base no projeto desenvolvido durante as aulas no Ignite de Fundamentos do React 
 
